@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev src/index.js ",
-    "build": "tsc",
+
     "start":"node src/index.js"
   },
   "engines": {
